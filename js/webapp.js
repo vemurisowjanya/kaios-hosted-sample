@@ -191,7 +191,7 @@
                 name: "view",
                 data: {
                     type: "url", // Possibly text/html in future versions
-                    url: "http://robertnyman.com"
+                    url: "http://sowjanyavemuri-gws.sandbox.google.com/search?q=translate+flower+to+spanish"
                 }
             });
         };
