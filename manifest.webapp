@@ -15,7 +15,7 @@
   },
   "developer": {
     "name": "Robert Nyman",
-    "url": "http://robertnyman.com"
+    "url": "https://github.com/vemurisowjanya/kaios-hosted-sample/blob/master/manifest.webapp"
   },
   "installs_allowed_from": [
     "*"
